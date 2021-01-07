@@ -45,15 +45,15 @@ final_Rossmann.csv is used as input for the second ipython file, alternatively, 
 - Download the tableau playbook & final_RossmannSales.csv from the provided drive link.
 - Establish a live data source connection & run
 
-Alternatively, you can check
+Alternatively, you can check it out on Tableau Online
 
-EXECUTIVE OVERVIEW
+
 [![image](https://user-images.githubusercontent.com/44095548/103937966-904a8080-514f-11eb-8962-4c3553b1e1b4.png)](https://prod-apnortheast-a.online.tableau.com/t/rossmannstores/views/Rossmann_project/ExecutiveOverview/nayak.amit.blr@gmail.com/55b376ad-20d8-48c6-8596-902ad5cebf6c?:display_count=n&:showVizHome=n&:origin=viz_share_link)
 
-ANALYTIC OVERVIEW
+
 [![image](https://user-images.githubusercontent.com/44095548/103938578-79f0f480-5150-11eb-978a-528a84568080.png)](https://prod-apnortheast-a.online.tableau.com/t/rossmannstores/views/Rossmann_project/AnalyticOverview/nayak.amit.blr@gmail.com/b98acdbc-ecae-4c31-9ccc-9248337f0c2e?:display_count=n&:showVizHome=n&:origin=viz_share_link)
 
-MANAGER OVERVIEW
+
 [![image](https://user-images.githubusercontent.com/44095548/103938803-d3592380-5150-11eb-9a4c-5d75d034cb78.png)](https://prod-apnortheast-a.online.tableau.com/t/rossmannstores/views/Rossmann_project/ManagerOverview?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
 
 
