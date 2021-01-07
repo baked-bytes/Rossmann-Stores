@@ -6,7 +6,7 @@ To know more about the dataset, check https://www.kaggle.com/c/rossmann-store-sa
 
 As the dataset lacked in certain cases, like providing information about the location and weather, information about the location was inferred based on holidays, and knowing the location, a weather dataset was merged accordingly.
 
-Link to the datasets used: https://drive.google.com/drive/folders/1XC2Q6fZ58DclicGXP1ajgZD_nW0C9Dyp?usp=sharing
+Link to the datasets used: https://drive.google.com/drive/folders/1XC2Q6fZ58DclicGXP1ajgZD_nW0C9Dyp?usp=sharing 
 
 This project is split into 3 phases:
 
