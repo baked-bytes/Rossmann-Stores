@@ -1,4 +1,4 @@
-# Predicting the daily sales of Rossmann Stores
+# Rossmann Stores
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
@@ -18,7 +18,7 @@ Phase 02 of the project dealt with using various ML models (Multi Linear Regress
 Among all the models used the gradient boosted trees models (LGBM model) shows most promise, with score of 98%
 
 ### Phase 03:
-Phase 03 dealt with using all the data inferred, from the previous phases, to create a simple buisness dashboard using tableau.
+Phase 03 dealt with using all the data inferred, from the previous phases, to create a simple business dashboard using tableau.
 
 ## Run the project locally
 
@@ -28,7 +28,6 @@ Phase 03 dealt with using all the data inferred, from the previous phases, to cr
 - Required ML libraries & visualisation libraries (scikit-learn, keras, tenserflow, numpy, pandas, seaborn, matplotlib) 
 - Tableau Desktop
 
-### To run the project
 ##### Ipython files
 - Download the ipython files present under **code** folder of the repo
 - Make sure to change the paths used for reading the datasets accordingly
@@ -42,11 +41,20 @@ final_Rossmann.csv is used as input for the second ipython file, alternatively, 
 - Rossmann_Stores_cleaning_EDA_feature_engg.ipynb on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DsQ7wRGrX66ma65QItQb7HptiVo3wBPY?usp=sharing) 
 - predict_RossmannSales.ipynb on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mgUAhohqbsJm9oivW5QH2e0Lpy7_XpDw?usp=sharing)
 
-##### Tableau playbook
+## Run tableau playbook locally
 - Download the tableau playbook & final_RossmannSales.csv from the provided drive link.
 - Establish a live data source connection & run
 
+Alternatively, you can check
 
+EXECUTIVE OVERVIEW
+[![image](https://user-images.githubusercontent.com/44095548/103937966-904a8080-514f-11eb-8962-4c3553b1e1b4.png)](https://prod-apnortheast-a.online.tableau.com/t/rossmannstores/views/Rossmann_project/ExecutiveOverview/nayak.amit.blr@gmail.com/55b376ad-20d8-48c6-8596-902ad5cebf6c?:display_count=n&:showVizHome=n&:origin=viz_share_link)
+
+ANALYTIC OVERVIEW
+[![image](https://user-images.githubusercontent.com/44095548/103938578-79f0f480-5150-11eb-978a-528a84568080.png)](https://prod-apnortheast-a.online.tableau.com/t/rossmannstores/views/Rossmann_project/AnalyticOverview/nayak.amit.blr@gmail.com/b98acdbc-ecae-4c31-9ccc-9248337f0c2e?:display_count=n&:showVizHome=n&:origin=viz_share_link)
+
+MANAGER OVERVIEW
+[![image](https://user-images.githubusercontent.com/44095548/103938803-d3592380-5150-11eb-9a4c-5d75d034cb78.png)](https://prod-apnortheast-a.online.tableau.com/t/rossmannstores/views/Rossmann_project/ManagerOverview?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
 
 
 
