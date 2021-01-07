@@ -29,8 +29,8 @@ Among all the models used the gradient boosted trees models (LGBM model) shows m
 - Make sure to change the paths used for reading the datasets accordingly
 - Run all the cells of the jupyter notebook
 
-Note that the first ipython file creates 3 .csv files namely, location.csv, cleaned_weather.csv & final_Rossmann.csv.
-final_Rossmann.csv is used as input for the second ipython file, alternatively, you can download this file from the provided drive link too.
+Note that the first ipython file creates 3 .csv files namely, location.csv, cleaned_weather.csv & final_RossmannSales.csv.
+final_RossmannSales.csv is used as input for the second ipython file, alternatively, you can download this file from the provided drive link too.
 
 ## Run the project on Colab
 
