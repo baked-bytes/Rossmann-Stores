@@ -10,7 +10,7 @@ link to the datasets used: https://drive.google.com/file/d/13WDkahmNbQSx_CwWo7fG
 
 This project is split into 2 phases:
 
-### Phase O1
+### Phase 01
 Phase 01 of the project dealt with Data Cleaning, EDA and feature Engineering.
 
 ### Phase 02
