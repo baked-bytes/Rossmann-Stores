@@ -28,7 +28,7 @@ Phase 03 dealt with using all the data inferred, from the previous phases, to cr
 - Required ML libraries & visualisation libraries (scikit-learn, keras, tenserflow, numpy, pandas, seaborn, matplotlib) 
 - Tableau Desktop
 
-##### Ipython files
+##### ipython files
 - Download the ipython files present under **code** folder of the repo
 - Make sure to change the paths used for reading the datasets accordingly
 - Run all the cells of the jupyter notebook
@@ -42,7 +42,7 @@ final_Rossmann.csv is used as input for the second ipython file, alternatively, 
 - predict_RossmannSales.ipynb on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mgUAhohqbsJm9oivW5QH2e0Lpy7_XpDw?usp=sharing)
 
 ## Run tableau playbook locally
-- Download the tableau playbook & final_RossmannSales.csv from the provided drive link.
+- Download the tableau playbook present under the **tableau** folder of the repo & final_RossmannSales.csv from the provided drive link.
 - Establish a live data source connection & run
 
 Alternatively, you can check it out on Tableau Online
