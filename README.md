@@ -17,7 +17,7 @@ Phase 01 of the project dealt with Data Cleaning, EDA and feature Engineering.
 Phase 02 of the project dealt with using various ML models (Multi Linear Regression, Lasso Regression, Gradient Boosted Trees, RNN) to predict Sales of the Rossmann Stores.
 Among all the models used the gradient boosted trees models (LGBM model) shows most promise, with score of 98%
 
-## How to run the project locally
+## Run the project locally
 
 ### Requirements
 - Python 3.x 
@@ -29,14 +29,15 @@ Among all the models used the gradient boosted trees models (LGBM model) shows m
 - Make sure to change the paths used for reading the datasets accordingly
 - Run all the cells of the jupyter notebook
 
-Alternatively you can run the files on Google Colab
-
-Rossmann_Stores_cleaning_EDA_feature_engg.ipynb on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DsQ7wRGrX66ma65QItQb7HptiVo3wBPY?usp=sharing) 
-
-predict_RossmannSales.ipynb on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mgUAhohqbsJm9oivW5QH2e0Lpy7_XpDw?usp=sharing)
-
 Note that the first ipython file creates 3 .csv files namely, location.csv, cleaned_weather.csv & final_Rossmann.csv.
 final_Rossmann.csv is used as input for the second ipython file, alternatively, you can download this file from the provided drive link too.
+
+## Run the project on Colab
+
+- Rossmann_Stores_cleaning_EDA_feature_engg.ipynb on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DsQ7wRGrX66ma65QItQb7HptiVo3wBPY?usp=sharing) 
+- predict_RossmannSales.ipynb on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mgUAhohqbsJm9oivW5QH2e0Lpy7_XpDw?usp=sharing)
+
+
 
 
 
