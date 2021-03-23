@@ -17,7 +17,7 @@ Phase 01 of the project dealt with Data Cleaning, EDA and feature Engineering.
 Phase 02 of the project dealt with using various ML models (Multi Linear Regression, Lasso Regression, Gradient Boosted Trees, RNN) to predict Sales of the Rossmann Stores.
 Among all the models used the gradient boosted trees models (LGBM model) shows most promise, with score of 98%
 
-### Phase 03:
+### Phase 03
 Phase 03 dealt with using all the data inferred, from the previous phases, to create a simple business dashboard using tableau.
 
 ## Run the project locally
